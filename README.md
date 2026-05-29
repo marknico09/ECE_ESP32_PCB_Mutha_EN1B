@@ -1,6 +1,6 @@
 # ECE_ESP32_PCB_Mutha_EN1B
 
-## 📝 Project Overview
+## Project Description 
 
 This project presents the development of a custom ESP32 Expansion PCB intended for embedded systems applications and hardware interfacing. The board was designed to provide organized GPIO accessibility, stable power regulation, and convenient peripheral integration while maintaining a compact and efficient PCB layout.
 
