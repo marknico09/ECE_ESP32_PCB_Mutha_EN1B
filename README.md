@@ -10,8 +10,6 @@ The design process includes schematic creation, PCB routing, component placement
 
 ## Features
 
-* **Efficient PCB Routing**
-  Carefully arranged traces and component placement for stable circuit performance.
 
 * **ESP32 Expansion Capability**
   Provides accessible GPIO headers for sensors, modules, and external devices.
@@ -21,9 +19,6 @@ The design process includes schematic creation, PCB routing, component placement
 
 * **USB Type-C Connectivity**
   Modern power input solution for improved usability and compatibility.
-
-* **3D PCB Visualization**
-  Realistic 3D rendering used for design verification and component inspection.
 
 * **Compact Hardware Design**
   Space-efficient board structure suitable for prototyping and educational projects.
