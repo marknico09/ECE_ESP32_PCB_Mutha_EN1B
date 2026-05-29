@@ -23,6 +23,15 @@ The design process includes schematic creation, PCB routing, component placement
 * **Compact Hardware Design**
   Space-efficient board structure suitable for prototyping and educational projects.
 
+# PCB_IMAGES/SCREENSHOT 
+* # **PCB LAYOUT**
+  <img width="624" height="1046" alt="Image" src="https://github.com/user-attachments/assets/b0b22230-25fa-4873-9fa5-b7abd0165a7b" />
+
+ * # **3D PCB VIEW**
+    <img width="662" height="946" alt="Image" src="https://github.com/user-attachments/assets/596aac74-29ed-4564-8b52-400da737a55a" />
+
+* # **SCHEMATIC DIAGRAM**
+  <img width="1116" height="778" alt="Image" src="https://github.com/user-attachments/assets/0bafc810-5c76-4627-8d92-416302d495cb" />
 ---
 
 ## Components Used
@@ -55,3 +64,5 @@ The design process includes schematic creation, PCB routing, component placement
 
 * **Name:** Mark Nico Mutha
 * **Course & Section:** ENPHY2 - EN1B
+
+
