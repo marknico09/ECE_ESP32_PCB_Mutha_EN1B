@@ -51,7 +51,7 @@ The design process includes schematic creation, PCB routing, component placement
 
 ---
 
-## Developer Information
+## Author Information
 
 * **Name:** Mark Nico Mutha
 * **Course & Section:** ENPHY2 - EN1B
